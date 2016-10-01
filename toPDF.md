@@ -1,0 +1,1 @@
+[to convert it to pdf click here](https://gitprint.com/szymczakk/cv/blob/master/README.md)
