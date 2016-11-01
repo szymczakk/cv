@@ -7,15 +7,17 @@ krzysztof.piotr.szymczak@gmail.com
 www.rakaz.pl
 
 ##education
-* 2012 - 2016 Computer Science in English at Wroclaw University of Technology (Bachelor of science / Inżynier)
+* 09.2012 - 07.2016 Computer Science in English at Wroclaw University of Technology (Bachelor of science / Inżynier)
 
 ##employment history
 * 2011 – now - Web Developer as freelancer
-* 2015.05 – now – Web Developer ASP.NET MVC5 (front-end in jQuery and Angular.js and back-end developer in .NET + MSSQL) at [PGS Software](https://www.pgs-soft.com/)
+* 2015.04 - 2015.05 - Intern web developer ASP.NET MVC5. Full stack (MSSQL, MVC5, jQuery) - Intern project based on MVC that helps user organize themself about ordering food in company at [PGS Software](https://www.pgs-soft.com/)
+* 2015.05 – 2016.10 – Web Developer ASP.NET MVC5. Full stack (MsSQL, MVC5, jQuery + Angular) - ERP class software that helps manage company at [PGS Software](https://www.pgs-soft.com/)
+* 2015.10 - now - Front end developer (Angular + jQuery) - B2B e-comerce software at [PGS Software](https://www.pgs-soft.com/)
 
 ##skills
 * Base PHP, TeamCity, JIRA, Visual Studio, Agile/Scrum, Linux
-* JS, HTML, CSS, SQL, C#, MVC 5, GIT, SVN
+* JS, HTML, CSS, SQL, C#, MVC5, GIT, SVN
 * Driving license B
 
 ##languages
