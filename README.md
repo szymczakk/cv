@@ -10,7 +10,6 @@ www.rakaz.pl
 * 09.2012 - 07.2016 Computer Science in English at Wroclaw University of Technology (Bachelor of science / Inżynier)
 
 ##employment history
-* 2011 – now - Web Developer as freelancer
 * 2015.04 - 2015.05 - Intern web developer ASP.NET MVC5. Full stack (MSSQL, MVC5, jQuery) - Intern project based on MVC that helps user organize themself about ordering food in company at [PGS Software](https://www.pgs-soft.com/)
 * 2015.05 – 2016.10 – Web Developer ASP.NET MVC5. Full stack (MsSQL, MVC5, jQuery + Angular) - ERP class software that helps manage company at [PGS Software](https://www.pgs-soft.com/)
 * 2015.10 - now - Full-stack Web developer (.Net MVC + API, Angular + jQuery, SQL) - B2B e-comerce software at [PGS Software](https://www.pgs-soft.com/)
