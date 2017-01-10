@@ -9,7 +9,7 @@ www.rakaz.pl
 ##employment history
 * 2015.04 - 2015.05 - Intern web developer ASP.NET MVC5. Full stack (MSSQL, MVC5, jQuery) - Intern project based on MVC that helps user organize themself about ordering food in company at [PGS Software](https://www.pgs-soft.com/)
 * 2015.05 – 2016.10 – Web Developer ASP.NET MVC5. Full stack (MsSQL, MVC5, jQuery + Angular) - ERP class software that helps manage company at [PGS Software](https://www.pgs-soft.com/)
-* 2015.10 - now - Full-stack Web developer (.Net MVC + API, Angular + jQuery, SQL, [Episerver CMS](http://www.episerver.com/)) - B2B e-commerce software at [PGS Software](https://www.pgs-soft.com/)
+* 2016.10 - now - Full-stack Web developer (.Net MVC + .Net API, Angular, MSSQL, [Episerver CMS](http://www.episerver.com/)) - B2B e-commerce software at [PGS Software](https://www.pgs-soft.com/)
 
 ##skills
 * JS, HTML, CSS, SQL, C#, MVC5, GIT
