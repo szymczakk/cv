@@ -26,6 +26,8 @@ www.rakaz.pl
 * Microsoft® Certified Solutions Associate: Web Applications (since 1st of October 2016)
 * Microsoft® Certified Solutions Developer: App Builder (since 31st of December 2016)
 * Microsoft® Certified Solutions Developer: Web Applications (since 31st of December 2016 to 31st of December 2018)
+* AWS Technical Professional (since April 2017)
+* AWS Business Professional (since February 2017)
 
 ##education
 * 09.2012 - 07.2016 Computer Science in English at Wroclaw University of Technology (Bachelor of science / Inżynier)
