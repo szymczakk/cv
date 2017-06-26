@@ -2,7 +2,7 @@
 
 ## Krzysztof Szymczak
 #### email
-krzysztof.piotr.szymczak@gmail.com
+krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
 #### website
 www.rakaz.pl
 
