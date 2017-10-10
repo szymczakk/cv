@@ -23,7 +23,7 @@ www.rakaz.pl
 * Spanish - basic
 
 ## certificates
-* AWS Certified Developer - Associate (since 14th of August 2017 to 15th of August 2019)
+* [AWS Certified Developer](https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2017-08-14&ci=AWS00308394&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2qqUXpsjRwupUeLIKO1%2FOQ%3D%3D) - Associate (since 14th of August 2017 to 15th of August 2019)
 * Microsoft® Certified Professional ( since 3rd of March 2016 )
 * Microsoft® Specialist: Programming in C# ( since 3rd of March 2016 )
 * Microsoft® Certified Solutions Associate: Web Applications (since 1st of October 2016)
