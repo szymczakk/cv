@@ -23,6 +23,7 @@ www.rakaz.pl
 * Spanish - basic
 
 ## certificates
+* AWS Certified Developer - Associate (since 14th of August 2017 to 15th of August 2019)
 * Microsoft® Certified Professional ( since 3rd of March 2016 )
 * Microsoft® Specialist: Programming in C# ( since 3rd of March 2016 )
 * Microsoft® Certified Solutions Associate: Web Applications (since 1st of October 2016)
