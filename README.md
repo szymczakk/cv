@@ -4,7 +4,7 @@
 #### email
 krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
 #### website
-www.rakaz.pl
+www.szymczakk.pl
 
 ## employment history
 * 2015.04 - 2015.05 - Intern web developer ASP.NET MVC5. Full stack (MSSQL, MVC5, jQuery) - Intern project based on MVC that helps user organize themself about ordering food in company at [PGS Software](https://www.pgs-soft.com/)
