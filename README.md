@@ -35,4 +35,4 @@ www.szymczakk.pl
 ## education
 * 09.2012 - 07.2016 Computer Science in English at Wroclaw University of Technology (Bachelor of science / Inżynier)
 
-*I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2002, No. 101, item 926 as amended*
+*I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the Personal Data Protection Act as of 29 August 1997, consolidated text: Journal of Laws 2016, item 922 as amended*
