@@ -11,11 +11,11 @@ www.szymczakk.pl
 * 2015.05 – 2016.10 – Web Developer ASP.NET MVC5. Full stack (MsSQL, MVC5, jQuery + Angular) - ERP class software that helps manage company at [PGS Software](https://www.pgs-soft.com/)
 * 2016.10 - 2017.07 - Full-stack Web developer (.Net MVC + .Net API, Angular, MSSQL, [Episerver CMS](http://www.episerver.com/), WebServices) - B2B e-commerce software at [PGS Software](https://www.pgs-soft.com/)
 * 2017.07 - 2017.09 - Full-stack Web developer (.Net, NancyFX, Pomona, Angular) - auction site system at [PGS Software](https://www.pgs-soft.com/)
-* 2017.09 - now - Full-stack Web developer (.Net API, Knockout.js, MSSQL) - flight reservation system at [PGS Software](https://www.pgs-soft.com/)
+* 2017.09 - now - Full-stack Web developer (.Net API, .Net MVC, Knockout.js, MSSQL, Angular 1) - flight reservation system at [PGS Software](https://www.pgs-soft.com/)
 
 ## skills
 * JS, HTML, CSS, SQL, C#, MVC5, GIT
-* TeamCity, JIRA, Visual Studio, Agile/Scrum, Linux
+* TeamCity, JIRA, Visual Studio, Agile/Scrum
 
 ## languages
 * Polish - native
