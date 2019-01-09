@@ -7,12 +7,12 @@ krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
 www.szymczakk.pl
 
 ## employment history
-* 2015.04 - 2015.05 - Intern web developer ASP.NET MVC5. Full stack (MSSQL, MVC5, jQuery) - Intern project based on MVC that helps user organize themself about ordering food in company at [PGS Software](https://www.pgs-soft.com/)
-* 2015.05 – 2016.10 – Web Developer ASP.NET MVC5. Full stack (MsSQL, MVC5, jQuery + Angular) - ERP class software that helps manage company at [PGS Software](https://www.pgs-soft.com/)
-* 2016.10 - 2017.07 - Full-stack Web developer (.Net MVC + .Net API, Angular, MSSQL, [Episerver CMS](http://www.episerver.com/), WebServices) - B2B e-commerce software at [PGS Software](https://www.pgs-soft.com/)
-* 2017.07 - 2017.09 - Full-stack Web developer (.Net, NancyFX, Pomona, Angular) - auction site system at [PGS Software](https://www.pgs-soft.com/)
-* 2017.09 - 2018.04 - Full-stack Web developer (.Net API, .Net MVC, Knockout.js, MSSQL, Angular 1) - flight reservation system at [PGS Software](https://www.pgs-soft.com/)
 * 2018.04 - now - Full-stack web developer (.NET API, .NET MVC, Knockout.js, Angularjs ) - travel portal, cms, integerations, services at [Travel Planet](https://www.travelplanet.pl/)
+* 2017.09 - 2018.04 - Full-stack Web developer (.Net API, .Net MVC, Knockout.js, MSSQL, Angular 1) - flight reservation system at [PGS Software](https://www.pgs-soft.com/)
+* 2017.07 - 2017.09 - Full-stack Web developer (.Net, NancyFX, Pomona, Angular) - auction site system at [PGS Software](https://www.pgs-soft.com/)
+* 2016.10 - 2017.07 - Full-stack Web developer (.Net MVC + .Net API, Angular, MSSQL, [Episerver CMS](http://www.episerver.com/), WebServices) - B2B e-commerce software at [PGS Software](https://www.pgs-soft.com/)
+* 2015.05 – 2016.10 – Web Developer ASP.NET MVC5. Full stack (MsSQL, MVC5, jQuery + Angular) - ERP class software that helps manage company at [PGS Software](https://www.pgs-soft.com/)
+* 2015.04 - 2015.05 - Intern web developer ASP.NET MVC5. Full stack (MSSQL, MVC5, jQuery) - Intern project based on MVC that helps user organize themself about ordering food in company at [PGS Software](https://www.pgs-soft.com/)
 
 ## skills
 * C#, .NET (MVC, API), .NET Core (MVC, API, EF), SQL
