@@ -7,7 +7,7 @@ krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
 www.szymczakk.pl
 
 ## employment history
-* 2018.04 - now - Full-stack web developer (.NET API, .NET Core API, .NET MVC, Knockout.js, Angularjs, TeamCity, Octopus, Puppeteer, RabbitMQ, Postman ) - travel portal, cms, integerations and services at [Travel Planet](https://www.travelplanet.pl/)
+* 2018.04 - now - Full-stack web developer (.NET API, .NET Core API, .NET MVC, Knockout.js, Angularjs, TeamCity, Octopus, Puppeteer, RabbitMQ, Postman) - travel portal, cms, integerations and services, "devops" (CI (teamcity)/CD (octopus) configuration) at [Travel Planet](https://www.travelplanet.pl/)
 * 2017.09 - 2018.04 - Full-stack Web developer (.Net API, .Net MVC, Knockout.js, MSSQL, Angular 1) - flight reservation system at [PGS Software](https://www.pgs-soft.com/)
 * 2017.07 - 2017.09 - Full-stack Web developer (.Net, NancyFX, Pomona, Angular) - auction site system at [PGS Software](https://www.pgs-soft.com/)
 * 2016.10 - 2017.07 - Full-stack Web developer (.Net MVC + .Net API, Angular, MSSQL, [Episerver CMS](http://www.episerver.com/), WebServices) - B2B e-commerce software at [PGS Software](https://www.pgs-soft.com/)
