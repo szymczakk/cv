@@ -2,7 +2,7 @@
 
 ## Krzysztof Szymczak
 #### email
-&#x202e; krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
+krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
 #### website
 www.szymczakk.pl
 
