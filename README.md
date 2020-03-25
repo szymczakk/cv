@@ -17,7 +17,7 @@ www.szymczakk.pl
 ## skills
 * C#, .NET (MVC, API), .NET Core (MVC, API, EF), SQL
 * JS, HTML, CSS, REACTJS, ANGULARJS
-* GIT, SVN, TeamCity, JIRA, Visual Studio, Agile/Scrum, VSTS/Devops Azure
+* GIT, TeamCity, JIRA, Visual Studio, Agile/Scrum, VSTS/Devops Azure
 
 ## languages
 * Polish - native
