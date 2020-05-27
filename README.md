@@ -7,7 +7,7 @@ krzysztof [dot] piotr [dot] szymczak [at] gmail [dot] com
 www.szymczakk.pl
 
 ## employment history
-* 2020.05 - now - Full-stack web .NET developer (.NET, .NET Core) - [NBC](https://www.nbc.com.pl/)
+* 2020.05 - now - Full-stack web .NET developer (.NET, .NET Core, React, Typescript) - [NBC](https://www.nbc.com.pl/)
 * 2018.04 - 2020.05 - Full-stack web developer/DevOps (.NET API, .NET Core API, .NET MVC, Knockout.js, Angularjs, TeamCity, Octopus, Puppeteer, RabbitMQ, Postman) - travel portal, cms, integerations and services, "devops" (CI (teamcity)/CD (octopus) configuration) at [Travel Planet](https://www.travelplanet.pl/)
 * 2017.09 - 2018.04 - Full-stack Web developer (.Net API, .Net MVC, Knockout.js, MSSQL, Angular 1) - flight reservation system at [PGS Software](https://www.pgs-soft.com/)
 * 2017.07 - 2017.09 - Full-stack Web developer (.Net, NancyFX, Pomona, Angular) - auction site system at [PGS Software](https://www.pgs-soft.com/)
